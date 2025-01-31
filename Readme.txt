@@ -1,7 +1,7 @@
 # Portfolio Mervic Jeazet
+==========================
 
-
-## Personals informations
+##Personals informations
 ---------------------------
 * Name : Mervic Jeazet
 * Email : mervicjeazet24@gmail.com
@@ -9,7 +9,7 @@
 * City : Yaounde, CAMEROON
 * Languages : French, English
 
-## Development Skills
+##Development Skills
 ---------------------------
 * HTML / CSS
 * Angular / TypeScrip
@@ -21,7 +21,7 @@
 * Git / GitHub
 * Responsive Design
 
-## Graphics Design Skills
+##Graphics Design Skills
 ---------------------------
 * Adobe Photoshop
 * Adobe Illustrator
@@ -30,7 +30,7 @@
 * Adobe Premiere Pro
 * Figma
 
-## Other Skills
+##Other Skills
 ---------------------------
 * Project Management
 * Time Management
@@ -38,7 +38,7 @@
 * Problem Solving
 
 
-## Features
+##Features
 --------
 
 * Responsive design
@@ -48,17 +48,17 @@
 * SCSS source files included
 * Well documented code
 
-## License
+##License
 -------
 
 Portfolio is licensed under the MIT License. This means that you are free to use, modify, and distribute the template as you see fit.
 
-## Changelog
+##Changelog
 ---------
 
 * v1.0 - Initial release
 
-## Credits
+##Credits
 -------
 
 * Bootstrap - http://getbootstrap.com/
@@ -67,7 +67,7 @@ Portfolio is licensed under the MIT License. This means that you are free to use
 * Gulp - http://gulpjs.com/
 
 
-## Contact
+##Contact
 --------
 
 If you have any questions or collaboration opportunities, please contact me at mervicjeazet24@gmail.com
